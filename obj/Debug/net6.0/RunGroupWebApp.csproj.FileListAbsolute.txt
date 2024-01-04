@@ -66,3 +66,5 @@ C:\Users\mwania.peter\source\repos\RunGroupWebApp\RunGroupWebApp\obj\Debug\net6.
 C:\Users\mwania.peter\source\repos\RunGroupWebApp\RunGroupWebApp\obj\Debug\net6.0\RunGroupWebApp.pdb
 C:\Users\mwania.peter\source\repos\RunGroupWebApp\RunGroupWebApp\obj\Debug\net6.0\RunGroupWebApp.genruntimeconfig.cache
 C:\Users\mwania.peter\source\repos\RunGroupWebApp\RunGroupWebApp\obj\Debug\net6.0\ref\RunGroupWebApp.dll
+C:\Users\mwania.peter\source\repos\RunGroupWebApp\RunGroupWebApp\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\mwania.peter\source\repos\RunGroupWebApp\RunGroupWebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
