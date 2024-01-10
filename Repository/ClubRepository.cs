@@ -35,6 +35,15 @@ namespace RunGroupWebApp.Repository
         {
             return await _context.Clubs.Include(i => i.Address).FirstOrDefaultAsync(i => i.Id == id);
         }
+        public async Task<Club> GetByIdAsyncNotracking(int id)
+        {
+            return await _context.Clubs.Include(i => i.Address).AsNoTracking().FirstOrDefaultAsync(i => i.Id == id);
+        }
+
+        public Task<Club> GetByIdAsyncNoTracking(int id)
+        {
+            throw new NotImplementedException();
+        }
 
         public async Task<IEnumerable<Club>> GetClubByCity(string city)
         {
